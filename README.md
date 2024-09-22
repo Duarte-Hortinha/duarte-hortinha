@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Duarte Hortinha</h1>
 <h3 align="center">A Lisbon-based junior web developer with an Economics background</h3>
 
-- 🔭 I’m currently working on [CrazyClient](https://www.crazyclient.pro/)
+- 🔭 I’m currently working on [Pop-Up Mary](http://tiny.cc/popupmary)
 
 - 🌱 I’m currently learning **React.js**
 
